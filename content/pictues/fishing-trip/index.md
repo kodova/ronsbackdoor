@@ -8,6 +8,9 @@ hideLastModified: true
 showInMenu: false
 ---
 
+> Fortune favors the bold!  So always seek the path less traveled.  
+As I always say, the front doors fine...but the backdoor is the path to true adventure!
+
 I like to fish.  I also like a good trip out in mother nature.  It just so happens I particularly enjoy doing both at the same time... FISHING TRIP!!!
 
 And so it was, on this particular day I set out on a journey...off to do some sole searching.  I decided to try some new territory, deep into the forest I went.  Indeed, it was a perilous journey, fraught with many laden obstacles in my way.
@@ -25,11 +28,15 @@ I like it when she bends over, but I love it when she tugs on my worm and then s
 Ah sweet victory!!
 
 A reel expert can tackle anything, and here's the proof:
-![20220522_102815.jpg](..%2F..%2F..%2F..%2F..%2F..%2FWorkspace%2Fronsbackdoor%2Fcontent%2Fpictues%2Ffishing-trip%2F20220522_102815.jpg)
+
+ {{< figure src="20220522_102815.jpg" width="400" >}}
+
 
 Like I always say, if you're good with your rod...the fish will come.
 
-![20220625_125138.jpg](..%2F..%2F..%2F..%2F..%2F..%2FWorkspace%2Fronsbackdoor%2Fcontent%2Fpictues%2Ffishing-trip%2F20220625_125138.jpg)
+ {{< figure src="20220625_125138.jpg" width="400" >}}
+
+
 Mine's so big...even this Master Baiter has to use two hands (or more)...
 
 Stay thirsty my friends
