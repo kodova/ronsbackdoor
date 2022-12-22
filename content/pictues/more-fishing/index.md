@@ -10,7 +10,7 @@ showInMenu: false
 
 # Woods Canyon Lake
 
- {{% figure src="woods7.jpg" width="400" %}}
+ {{< figure src="woods7.jpg" width="400" >}}
 
 > ##  *“Always think like a fish, no matter how weird it gets”*
 
@@ -24,3 +24,5 @@ If I could pick any lake here in AZ to get hitched to it would be this lake.  I 
  BOOM! The trout struck that fly like it hadn't eaten in a week.  The fight was one.  He tried to go under a log, then under boat but I was too quick that day.  A leap out of the water trying to release the hook that was leading him to his destiny of wall mount.  That's right he was my holy grail of fish that day my friends.  I couldn't believe the line held.  I got him in the boat, winded from our fierce battle but estatic I finally caught the biggest trout of my life.
 
  "Brownie" as I call him now resides on my wall as a reminder of that fateful awesome day.
+
+{{< twoFigure src1="imagejpeg_0002.jpg" width1="400" src2="IMG-20210718-WA0015.jpg" width2="400" >}}
