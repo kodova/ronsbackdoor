@@ -103,7 +103,7 @@ params:
     # this options let you specify if you want a link to the asset
     title: Ron's Backdoor
     # option to specify the subtitle in the homepage
-    subtitle: The outdoors is right out your Backdoor
+    subtitle: The Outdoors is Right Out Your Backdoor
     # option to specify image in the homepage
     image: "/image/IMG-20210718-WA0019.jpg" # worker.svg 
     # option to specify the width of the image in the homepage
@@ -116,12 +116,9 @@ params:
     logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
     email: 
-      link: name.surname@domain.com
+      link: ron@ronsbackdoor.pictures
       title: My Email
     # option to specify your linkedin profile in the footer
-    linkedin: 
-      link: your_linkedin_profile
-      title: My LinkedIn
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer
     # facebook: 
@@ -147,5 +144,5 @@ params:
     #    link: username
     #    title: Telegram
     # option to specify the copyright in the footer
-    copyright: Julia The White - 2021
+    copyright: Ron's Backdoor Picture - 2018
 
