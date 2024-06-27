@@ -41,7 +41,7 @@ params:
 
   # option to specify the favicon image of the site
   # the path is relative to the folder "assetDir" of this configuration
-  favicon: "/images/favicon.svg"
+  favicon: "/images/cartoon-ron.jpg"
 
   # parameter used to specify if you want to minify the imported js
   jsMinify: false
@@ -75,7 +75,7 @@ params:
   sidebar:
     # option to specify the logo of the sidebar
     # the starting folder is configure in "assetDir" of this file
-    logo: "/images/refresh-square.svg"
+    logo: "/images/cartoon-ron.jpg"
     # option to specify the font of the sidebar
     fontFamily: "Open Sans" # "Open Sans"
 
@@ -113,7 +113,7 @@ params:
   footer:
     # option to specify the logo in the footer
     # the starting folder is configure in "assetDir" of this file
-    logo: "/images/refresh-square.svg"
+    logo: "/images/cartoon-ron.jpg"
     # option to specify your contact email in the footer
     email: 
       link: ron@ronsbackdoor.pictures
@@ -144,5 +144,5 @@ params:
     #    link: username
     #    title: Telegram
     # option to specify the copyright in the footer
-    copyright: Ron's Backdoor Picture - 2018
+    copyright: Ron's Backdoor Picture - 1969
 
